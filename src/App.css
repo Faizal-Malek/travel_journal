@@ -1,0 +1,103 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navBar
+{
+  background: #F55A5A;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+.fa{
+  font-size: 2em !important; /*size whatever you like*/
+  color: aliceblue;
+  margin-top: 7px;
+  padding-right: 10px;
+}
+.heading
+{
+  color: aliceblue;
+}
+.card--image
+{
+  width: 125px;
+  height: 168px;
+  border-radius: 8px;
+}
+
+.Card-container
+{
+
+display: flex;
+width: 470px;
+height: 168px;
+top: 100px;
+left: 40px;
+border-radius: 5px;
+margin: 10px;
+
+}
+.fa-location-dot
+{
+  color: #F55A5A;
+  margin-right: 10px;
+
+}
+
+.a--linke
+{
+  color: #918E9B;
+
+}
+span
+{
+  margin-right: 10px;
+}
+.content-container{
+  padding: 20px;
+}
+.main--content
+{
+
+}
+.Location--Title
+{
+  font-size: 30.26px;
+}
+.location--Date
+{
+  font-size: 13.39px;
+  font-weight: 800;
+}
+.main--text
+{
+font-size: 12px;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.Card-container
+{
+  width: 80%;
+  resize: both;
+  height: fit-content;
+  padding: 10px;
+  box-shadow: 5px 5px 10px 1px #837777, 5px 5px 10px 1px #a79f9f;
+}
+
+.main--div
+{
+  display: grid;
+	place-items: center;
+  overflow: hidden;
+  margin-top:20px;
+}
