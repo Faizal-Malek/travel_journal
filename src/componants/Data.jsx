@@ -23,5 +23,13 @@ export default[
         Date : "01 Oct, 2021 - 18 Nov, 2021",
         googleMap: "https://www.google.com/maps/place/Norway/@64.55875,17.7099499,4z/data=!3m1!4b1!4m6!3m5!1s0x461268458f4de5bf:0xa1b03b9db864d02b!8m2!3d60.472024!4d8.468946!16zL20vMDViNHc?entry=ttu",
         description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
+    },
+    {
+        image: 'https://blog.goway.com/globetrotting/wp-content/uploads/2019/03/Table-mountain-at-sunset-Cape-Town-South-Africa-_492187513.jpg',
+        Location : "South Africa",
+        site: "Table Mountain",
+        Date : "25 May, 2022 - 01 Jul, 2022",
+        googleMap: "https://www.google.com/maps/place/Norway/@64.55875,17.7099499,4z/data=!3m1!4b1!4m6!3m5!1s0x461268458f4de5bf:0xa1b03b9db864d02b!8m2!3d60.472024!4d8.468946!16zL20vMDViNHc?entry=ttu",
+        description: "Sarah and her friends set off on an exhilarating journey to Cape Town, determined to conquer Table Mountain. The steep ascent tested their endurance, but the view from the summit, overlooking Cape Town and the ocean at sunset, made it all worth it. This adventure left an indelible mark on their hearts, inspiring a promise to return one day."
     }
 ]
