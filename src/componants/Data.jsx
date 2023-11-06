@@ -25,7 +25,7 @@ export default[
         description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
     {
-        image: 'https://blog.goway.com/globetrotting/wp-content/uploads/2019/03/Table-mountain-at-sunset-Cape-Town-South-Africa-_492187513.jpg',
+        image: 'https://blog.goway.com/globetrotting/wp-content/uploads/2016/05/Cape-Town-Stadium-and-Table-Mountain-South-Africa.jpg',
         Location : "South Africa",
         site: "Table Mountain",
         Date : "25 May, 2022 - 01 Jul, 2022",
